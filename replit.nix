@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+      pkgs.javacc
         pkgs.graalvm17-ce
         pkgs.maven
         pkgs.replitPackages.jdt-language-server
