@@ -20,10 +20,10 @@ public class Voidmethods {
 
   
   public static void main(String[] args){ // Calling all the above functions
-  voidmethods();
-  voidmethods();
-  test("my good neighbor");
-  person("lara", 60);
+  voidmethods(); // calling the voidmethds function
+  voidmethods(); // calling the voidmethds function
+  test("my good neighbor"); // calling the test function
+  person("lara", 60); // calling the person function
   
   }
 

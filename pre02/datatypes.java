@@ -11,9 +11,8 @@ class dataTypes {
     System.out.print("What is your age? ");
     int yourAge = age.nextInt(); // yourAge is the age the user inputs
 
-    System.out.print("Your name is "+userName+" and you are "+yourAge+" years old.");
-      
+    System.out.print("Your name is " + userName + " and you are " + yourAge + " years old."); // Printing out the name
+                                                                                              // and age
 
- 
   }
 }
